@@ -53,7 +53,7 @@
 
         removeAllChildren(imagediv)
         const image01 = document.createElement('img')
-        image01.src = ('src','http://minimal97.mydns.jp:8123/hako/land17.gif')
+        image01.src = ('src','url')
         image01.alt = ('alt','テスト用の画像')
         imagediv.appendChild(image01)
 
